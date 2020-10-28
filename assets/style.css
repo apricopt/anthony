@@ -125,3 +125,21 @@
   list-style: none;
   text-decoration: underline;
 }
+
+.homeCard {
+  border: 7px inset green;
+  box-shadow: 3px 2px 5px rgb(24, 53, 180);
+}
+
+#aboutHero {
+  height: 300px;
+  position: relative;
+  background-color: black;
+}
+
+#aboutHero video {
+  height: 300px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
